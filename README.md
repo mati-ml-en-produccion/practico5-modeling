@@ -1,7 +1,5 @@
 # Práctico 5
 
-Lo que vamos a ver en este práctico: 
-
 ### Modeling
 
 - Experiment tracking
